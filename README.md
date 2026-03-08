@@ -118,3 +118,4 @@ Browser displays result + annotated image with skeleton overlay
 | Vision    | OpenCV              |
 | Frontend  | HTML5 + CSS + JS    |
 | Camera    | WebRTC getUserMedia |
+=====
