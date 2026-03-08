@@ -6,7 +6,7 @@ and without any API key.
 
 ## ✨ Features
 - 🎥 Live webcam gesture detection
-- 🧠 AI-powered hand landmark tracking (21 points per hand)
+- 🧠 AI-powered hand landmark tracking (21 points per hand) 
 - ✋ Recognizes 12+ gestures (Thumbs Up, Peace, OK, Rock On & more)
 - 🔒 100% local — no cloud, no API key, no data sent anywhere
 - ⚡ Real-time response in under 1 second
