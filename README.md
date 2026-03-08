@@ -1,5 +1,3 @@
-# gesture-app
-🖐 Real-time hand gesture recognition web app — webcam input → AI detects gestures → displays text output. Built with Python, Flask, MediaPipe &amp; OpenCV.
 # 🖐 GestureAI — Hand Language Interpreter
 
 A real-time hand gesture recognition web application that uses your webcam 
